@@ -8,7 +8,7 @@ public class Main {
         boolean minus = false;
 
         for (double num : numbers) {
-
+//hello sensei
             if (!minus) {
                 if (num < 0) {
                     minus = true;
